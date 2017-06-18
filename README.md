@@ -1,3 +1,3 @@
 PSD template - https://www.behance.net/gallery/19761051/SKOKOV-Profit-Free-Business-PSD-Template
 
-DEMO: gallyamov-aydar.github.io
+DEMO: https://gallyamov-aydar.github.io/
